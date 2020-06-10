@@ -1,3 +1,3 @@
 # FiveM_ShitLauncher
 
-Launcher copied pasted from the coolest StrefaRP fivem server rofl 
+Launcher copied and pasted from the coolest StrefaRP fivem server rofl 
